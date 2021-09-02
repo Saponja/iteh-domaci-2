@@ -1,0 +1,31 @@
+
+.list-item {
+    margin: 1rem 5rem;
+    color: rgb(204, 157, 70);
+    border-bottom: orange 2px solid;
+    box-shadow: 0 8px 8px -4px lightblue;
+    display: flex;
+}
+
+.name {
+    padding-left: 1rem;
+    flex: 5;
+}
+
+.price {
+
+    flex:1;
+}
+
+.header {
+    margin: 1rem 10% 1rem 40%;
+    color: rgb(204, 157, 70);
+    display: flex;
+    align-items: center;
+}
+
+
+.shop {
+    flex: 3;
+    font-size: 32px;
+}
